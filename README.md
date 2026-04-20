@@ -43,20 +43,11 @@ Proyecto personal de marca y contenido técnico.
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&align=center" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&align=center" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Contacto
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-* **Portafolio:** [tu-sitio-web.com](https://tu-sitio-web.com)
-* **Email:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
+## 📫 Conectemos
+* **LinkedIn:** https://www.linkedin.com/in/sheen-fernandez-806b97337/
+* **Email:** sheen2107@hotmail.com
 
 ---
 <p align="center">
-  <i>"El código es poesía cuando la arquitectura es sólida."</i>
+  <i>"La tecnología es el medio, la excelencia es el estándar."</i>
 </p>
