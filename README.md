@@ -1,4 +1,4 @@
-Sheen Fernández | Full-Stack Developer & Task Manager
+# 🚀 Sheen Fernández | Full-Stack Developer & Task Manager
 
 ### **Ingeniería Civil Informática | Especialista en Mobile & Automatización**
 _Transformando ideas complejas en software escalable y equipos de alto rendimiento._
